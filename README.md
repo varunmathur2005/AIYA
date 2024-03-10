@@ -9,7 +9,7 @@ and Python programming. Achieved an impressive overall accuracy of 95% with the 
 showcasing effective communication and presentation abilities. The presentations were well-received by an audience of 200+ attendees, 
 further emphasizing the project’s impact and reach.
 
-Air-O-Grade (Group Project) | Python, Microsoft Azure 
+# Air-O-Grade (Group Project) | Python, Microsoft Azure 
 
 • Implemented pipelines for data cleaning using clip value component, ensuring dataset quality by handling null values.
 
